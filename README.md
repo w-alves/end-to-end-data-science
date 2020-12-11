@@ -1,6 +1,7 @@
 # A end-to-end data science project
 
-![](https://i.imgur.com/pCcIwtu.png)
+![](https://i.imgur.com/eiZeqL3.png)
+
 Data science is an area that is commonly described as the intersection of statistics/mathematics, computing and knowledge about the domain of the problem to be solved.
 Therefore, one of the most interesting ways to have a first contact with the area or to develop a project to put in the personal portfolio is to work with the so-called end-to-end solutions, which cover from the first stages of the pipeline to the final one. 
 ￼
